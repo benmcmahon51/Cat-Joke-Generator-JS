@@ -9,7 +9,7 @@ Cat Joke Generator is an independent CodeCademy project with the goal of creatin
 1. Clone the code repository of index.js 
 2. Install dependencies.
 3. Run the JavaScript in terminal, each time the code runs, a random cat joke will be returned!
-##Collaborators
+## Collaborators
 Code was written by Benjamin McMahon
-##License
+## License
 MIT license
